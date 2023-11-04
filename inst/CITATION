@@ -1,0 +1,10 @@
+citHeader("To cite BFFTESTING in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title   = "BFFTESTING: {An} {R} package to ...",
+  author  = c(person("shudde rachael")),
+  year    = "2023",
+  note    = "R package version 0.0.0.9000",
+  url     = "https://github.com/rshudde/BFFTESTING"
+)
